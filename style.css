@@ -58,10 +58,12 @@ input{
     border: 2px solid #06637a;
 }
 
+#submit:hover{
+    background-color: #85e0cd;
+    color:rgb(6, 39, 53);
+    cursor:pointer;
 
-
-
-
+}
 
 .row, .row2{
     height: 50px;
@@ -92,6 +94,17 @@ input{
     margin-left: 1000px;
     background-color:#28A545;
     color:white;
+}
+
+.edit:hover{
+    background-color: #c1fcd3;
+    color:#28a545;
+    cursor:pointer;
+}
+.delete:hover{
+    background-color: #c1fcd3;
+    color:#dd3445;
+    cursor:pointer;
 }
 
 .delete{
