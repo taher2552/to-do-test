@@ -58,6 +58,10 @@ input{
     border: 2px solid #06637a;
 }
 
+h2{
+    color:#099b79;
+}
+
 #submit:hover{
     background-color: #85e0cd;
     color:rgb(6, 39, 53);
