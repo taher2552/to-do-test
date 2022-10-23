@@ -55,7 +55,7 @@ input{
     margin-left: 20px;
     margin-top: 0;
     border: none;
-    border: 2px solid #06637a;
+    
 }
 
 h2{
@@ -96,13 +96,14 @@ h2{
 
 .edit{
     margin-left: 1000px;
-    background-color:#28A545;
+    background-color:#126574;
     color:white;
+    border: none;
 }
 
 .edit:hover{
     background-color: #c1fcd3;
-    color:#28a545;
+    color:#17477e;
     cursor:pointer;
 }
 .delete:hover{
@@ -112,8 +113,9 @@ h2{
 }
 
 .delete{
-    background-color:#DD3445;
+    background-color:#8b111d;
     color:white;
+    border:none;
 }
 
 .btn{
